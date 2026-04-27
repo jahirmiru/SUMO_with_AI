@@ -28,8 +28,8 @@ We highly recommend using a Python Virtual Environment to keep dependencies clea
 
 Clone the repository and set up your environment:
 ```bash
-git clone https://github.com/yourusername/sumo-tia-software.git
-cd sumo-tia-software
+git clone https://github.com/yourusername/SUMO_with_AI.git
+cd SUMO_with_AI
 
 # Create and activate a virtual environment (Windows)
 python -m venv .venv
